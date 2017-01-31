@@ -23,7 +23,6 @@
 #  
 
 import pygame.midi
-import sys
 from time import sleep
 from random import randint
 
